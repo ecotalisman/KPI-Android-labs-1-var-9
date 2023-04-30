@@ -1,4 +1,4 @@
-package com.learning.lab9
+package com.learning.lab_1_var_9
 
 import android.os.Bundle
 import android.widget.Button
@@ -6,6 +6,7 @@ import android.widget.RadioButton
 import android.widget.RadioGroup
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.learning.lab9.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.learning.lab_1_var_9.MainActivity">
 
     <RadioGroup
         android:id="@+id/productTypeRadioGroup"
@@ -56,7 +56,7 @@
         android:id="@+id/okButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="88dp"
+        android:layout_marginTop="40dp"
         android:text="ОК"
         app:layout_constraintEnd_toEndOf="@+id/productTypeRadioGroup"
         app:layout_constraintTop_toBottomOf="@+id/productTypeRadioGroup" />
@@ -74,7 +74,10 @@
         android:id="@+id/resultTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
         android:text=""
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/okButton" />
+        app:layout_constraintEnd_toEndOf="@+id/cancelButton"
+        app:layout_constraintStart_toStartOf="@+id/okButton"
+        app:layout_constraintTop_toBottomOf="@+id/okButton"
+        tools:text="RESULT" />
 </androidx.constraintlayout.widget.ConstraintLayout>
