@@ -1,7 +1,7 @@
 # KPI-Android-lab-1-var-9
 
-## Laboratory Work # 1
-## Exploration of Control Elements
+### Laboratory Work # 1
+### Exploration of Control Elements
 
 **Objective:** To explore the creation of a simple Android platform application and gain practical skills in using interface controls, Java and Kotlin programming languages.
 
@@ -17,9 +17,9 @@ The interface window contains two groups of options (type of goods and company),
 
 #
 
-## Лабораторна робота № 1
+### Лабораторна робота № 1
 
-## Дослідження роботи з елементами керування
+### Дослідження роботи з елементами керування
 
 **Мета роботи:** дослідити створення простого застосунку під платформу Андроїд та набути практичні навички з використання елементів керування інтерфейсу, мов програмування Java та Kotlin.
 
